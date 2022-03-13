@@ -54,7 +54,7 @@
     .menu-branding .portrait {
       width: 250px;
       height: 250px;
-      background: url("/images/Uday.jpg");
+      background: url("https://github.com/udaykiran-i/LGMVIP-Web/blob/main/images/Uday.jpg");
       background-size: cover;
       border-radius: 50%;
       border: solid 3px #eece1a; }
